@@ -1,0 +1,1 @@
+pyinstaller -F -i=icon.ico Rysim.pyw --collect-all pgzero --add-data "images;images" --add-data "sounds;sounds" --add-data "fonts;fonts" --collect-all pgzero
