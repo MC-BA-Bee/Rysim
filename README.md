@@ -2,7 +2,7 @@
 
 > 一款四轨下落式音乐节奏游戏 —— 跟随节拍，敲击音符，感受音乐的魅力！
 >
-> !注意:本项目由于pgzero自身特性，无exe可执行程序发布，请关注Rysim2项目github.com/MC-BA-bee/Rysim2
+> !注意:本项目由于pgzero自身特性，无exe可执行程序发布，请关注Rysim2项目https:/github.com/MC-BA-bee/Rysim2
 
 
 ## 📝 项目简介
